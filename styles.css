@@ -40,10 +40,10 @@ body {
 }
 
 .card-text {
-    margin: 10px 30px;
+    margin: 10px 25px;
 }
 
-.card-heading, h3 {
+.card-heading, h2 {
     margin: 0;
     color: hsl(218, 44%, 22%);
 }
